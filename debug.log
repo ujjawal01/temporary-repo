@@ -1,0 +1,972 @@
+INFO 2020-06-20 20:26:00,045 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-20 20:26:00,305 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:26:13,101 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-20 20:26:13,289 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:26:41,545 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-20 20:26:41,547 repositeries create_new_news 49 Creating a news
+INFO 2020-06-20 20:26:42,977 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-20 20:27:13,380 validators validate_news 11 Invalid News Entity, No title
+ERROR 2020-06-20 20:27:58,956 validators validate_news 11 Invalid News Entity, No title
+INFO 2020-06-20 20:30:10,803 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:30:41,399 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-20 20:30:41,402 repositeries create_new_news 49 Creating a news
+INFO 2020-06-20 20:30:42,565 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:31:12,020 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-20 20:31:12,183 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:31:15,932 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-20 20:31:16,349 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:31:19,979 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-20 20:31:20,175 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:31:23,319 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-20 20:31:23,559 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:31:26,669 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-20 20:31:26,923 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:32:04,821 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-20 20:32:04,821 repositeries create_new_news 49 Creating a news
+INFO 2020-06-20 20:32:05,874 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-20 20:32:30,025 validators validate_news 11 Invalid News Entity, No title
+INFO 2020-06-20 20:34:49,730 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-20 20:34:50,000 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:34:58,413 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-20 20:34:58,413 repositeries create_new_news 49 Creating a news
+INFO 2020-06-20 20:34:59,591 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:35:09,688 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-20 20:35:09,694 repositeries get_news 34 Getting the news from id
+INFO 2020-06-20 20:35:09,704 repositeries update_existing_news 69 Call to update_existing_news method
+ERROR 2020-06-20 20:35:09,817 repositeries update_existing_news 82 list index out of range
+ERROR 2020-06-20 20:35:09,819 repositeries update_existing_news 95 Audience doesnot exist
+INFO 2020-06-20 20:36:09,467 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-20 20:36:09,472 repositeries get_news 34 Getting the news from id
+INFO 2020-06-20 20:36:09,520 repositeries update_existing_news 69 Call to update_existing_news method
+ERROR 2020-06-20 20:36:09,527 repositeries update_existing_news 82 list index out of range
+ERROR 2020-06-20 20:36:09,533 repositeries update_existing_news 95 Audience doesnot exist
+INFO 2020-06-20 20:36:26,646 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:36:36,671 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-20 20:36:36,681 repositeries get_news 34 Getting the news from id
+INFO 2020-06-20 20:36:36,699 repositeries update_existing_news 69 Call to update_existing_news method
+ERROR 2020-06-20 20:36:36,744 repositeries update_existing_news 82 list index out of range
+ERROR 2020-06-20 20:36:36,796 repositeries update_existing_news 95 Audience doesnot exist
+INFO 2020-06-20 20:36:41,986 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:37:10,392 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:37:20,287 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:37:30,196 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-20 20:37:30,203 repositeries get_news 34 Getting the news from id
+INFO 2020-06-20 20:37:30,212 repositeries update_existing_news 69 Call to update_existing_news method
+ERROR 2020-06-20 20:37:30,228 repositeries update_existing_news 82 list index out of range
+ERROR 2020-06-20 20:37:30,233 repositeries update_existing_news 95 Audience doesnot exist
+INFO 2020-06-20 20:37:41,052 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-20 20:37:41,053 repositeries create_new_news 49 Creating a news
+INFO 2020-06-20 20:37:42,316 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-20 20:37:53,697 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-20 20:37:53,704 repositeries get_news 34 Getting the news from id
+INFO 2020-06-20 20:37:53,713 repositeries update_existing_news 69 Call to update_existing_news method
+ERROR 2020-06-20 20:37:53,850 repositeries update_existing_news 82 list index out of range
+ERROR 2020-06-20 20:37:53,852 repositeries update_existing_news 95 Audience doesnot exist
+INFO 2020-06-21 16:09:07,921 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:23:10,246 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:23:27,496 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-21 16:23:28,152 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:23:31,089 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-21 16:23:31,652 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:33:54,740 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:37:01,909 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:37:09,163 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:38:24,816 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:41:50,938 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:43:30,904 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:43:31,049 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 16:48:11,461 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:01:31,760 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:19:38,481 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:20:07,747 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:20:47,836 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:20:59,921 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-21 17:20:59,921 repositeries get_news 34 Getting the news from id
+INFO 2020-06-21 17:20:59,942 repositeries update_existing_news 69 Call to update_existing_news method
+ERROR 2020-06-21 17:21:00,356 repositeries update_existing_news 82 list index out of range
+ERROR 2020-06-21 17:21:00,357 repositeries update_existing_news 95 Audience doesnot exist
+INFO 2020-06-21 17:21:55,926 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-21 17:21:56,293 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:22:10,433 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:23:14,315 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:23:16,864 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:24:24,332 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:24:29,154 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:25:18,869 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:25:21,369 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:25:38,084 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:26:04,322 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:26:04,533 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:26:26,708 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:26:26,991 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:26:49,054 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:27:03,306 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:27:31,947 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-21 17:27:31,952 repositeries create_new_news 49 Creating a news
+INFO 2020-06-21 17:27:33,238 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:31:39,196 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:31:41,020 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:32:17,917 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-21 17:32:17,918 repositeries get_news 34 Getting the news from id
+INFO 2020-06-21 17:32:17,931 repositeries update_existing_news 69 Call to update_existing_news method
+ERROR 2020-06-21 17:32:18,008 repositeries update_existing_news 82 list index out of range
+ERROR 2020-06-21 17:32:18,008 repositeries update_existing_news 95 Audience doesnot exist
+INFO 2020-06-21 17:32:54,514 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-21 17:32:54,515 repositeries create_new_news 49 Creating a news
+INFO 2020-06-21 17:32:55,397 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:34:21,609 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:34:22,068 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:35:18,778 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:35:40,755 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:37:11,288 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-21 17:37:11,547 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:47:06,918 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:47:57,091 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:48:35,539 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 17:49:08,503 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-21 17:49:08,708 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 20:17:04,981 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 20:17:49,069 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-21 20:17:49,081 repositeries create_new_news 49 Creating a news
+INFO 2020-06-21 20:17:50,077 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 20:21:34,496 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 20:22:26,933 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 20:23:37,331 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-21 20:23:37,336 repositeries create_new_news 49 Creating a news
+INFO 2020-06-21 20:23:38,333 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 20:24:44,728 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 20:25:58,474 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-21 20:25:58,475 repositeries create_new_news 49 Creating a news
+INFO 2020-06-21 20:25:59,487 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 20:27:34,866 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-21 20:28:09,360 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-21 20:28:09,374 repositeries create_new_news 49 Creating a news
+INFO 2020-06-21 20:28:10,380 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:32:48,541 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:33:24,948 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:37:43,070 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:37:43,605 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:37:52,345 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:37:52,906 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:49:50,776 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:49:51,320 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:50:42,711 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:50:43,081 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:51:00,125 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 12:51:00,625 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 13:40:09,075 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 13:40:28,375 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:29:49,607 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:29:49,642 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:33:04,542 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:34:32,467 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:35:14,672 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-22 14:35:14,854 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:35:15,013 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:35:15,145 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:37:38,297 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:37:52,006 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:03,035 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-22 14:38:03,098 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:03,102 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:03,302 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:51,534 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 14:38:51,539 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 14:38:51,709 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:51,711 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:51,865 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:51,870 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,011 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,032 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,216 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,249 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,408 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,776 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,782 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,917 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,933 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,985 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:52,990 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:53,058 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:38:53,176 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:43:00,684 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:43:12,823 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:43:24,580 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-22 14:43:24,661 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:43:24,661 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:43:24,958 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:44:16,894 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:44:17,344 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:44:27,467 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:44:44,475 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:44:46,911 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:45:05,264 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-22 14:45:05,359 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:45:05,391 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:45:05,554 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:52:52,639 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:53:57,467 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 14:53:57,473 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 14:53:57,822 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:53:58,011 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:53:58,079 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:53:58,322 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:53:58,587 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:53:58,774 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:53:59,005 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:53:59,156 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:53:59,212 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:54:50,545 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:55:01,420 repositeries delete_existing_news 99 Call to delete_existing_news method
+INFO 2020-06-22 14:55:01,462 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:55:01,641 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:55:01,734 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 14:58:40,600 repositeries get_all_news_by_tag 113 Call to get_news method
+INFO 2020-06-22 14:58:48,100 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:00:25,486 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:00:37,687 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:01,539 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 15:01:01,545 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 15:01:01,713 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:01,884 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:01,983 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:01,987 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:02,094 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:02,102 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:02,247 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:02,250 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:02,669 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:02,674 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:02,754 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:02,760 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:02,898 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:02,903 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:03,066 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:03,142 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:01:03,240 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:09:38,018 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 15:09:38,036 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 15:14:12,775 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 15:14:12,865 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 15:14:16,910 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:14:20,172 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:15:11,312 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:16:01,802 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:16:51,346 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:16:56,588 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:16:58,600 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 15:16:58,623 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 15:17:01,942 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:17:10,017 repositeries get_all_news_by_tag 113 Call to get_news method
+INFO 2020-06-22 15:17:14,302 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:18:10,652 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 15:18:16,613 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 15:18:16,628 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 15:18:18,259 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:16:39,661 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:16:39,720 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:16:57,780 repositeries delete_existing_news 100 Call to delete_existing_news method
+INFO 2020-06-22 16:16:57,880 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:16:58,226 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:18:27,786 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:22:36,803 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 16:22:36,806 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 16:22:37,197 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:22:37,201 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:22:38,359 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:25:06,579 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:25:06,587 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:25:24,880 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 16:25:24,889 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 16:25:24,897 repositeries update_existing_news 70 Call to update_existing_news method
+INFO 2020-06-22 16:25:25,707 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:26:50,552 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:02,095 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:18,955 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 16:27:18,956 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 16:27:18,965 repositeries update_existing_news 70 Call to update_existing_news method
+INFO 2020-06-22 16:27:20,121 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:20,170 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:20,269 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 16:27:42,469 validators validate_news 17 Invalid News Entity, No tags
+INFO 2020-06-22 16:27:53,321 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 16:27:53,323 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 16:27:53,544 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:53,592 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:53,715 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:53,738 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:53,872 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:53,893 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:54,083 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:54,105 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:54,251 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:54,301 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:54,492 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:54,551 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:54,668 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:54,675 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:54,914 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:54,949 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:27:55,060 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:32:03,302 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:32:36,377 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:36:12,162 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:36:31,386 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 16:36:31,390 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 16:36:31,562 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 16:36:31,570 repositeries create_new_news 65 'str' object has no attribute 'audience_type'
+INFO 2020-06-22 16:37:42,349 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:38:02,549 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 16:38:02,550 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 16:38:02,780 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 16:38:02,786 repositeries create_new_news 56 list index out of range
+ERROR 2020-06-22 16:38:02,788 repositeries create_new_news 65 Audience doesnot exist
+INFO 2020-06-22 16:39:21,508 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:39:38,863 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 16:39:38,870 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 16:39:39,059 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 16:39:39,068 repositeries create_new_news 56 list index out of range
+ERROR 2020-06-22 16:39:39,075 repositeries create_new_news 65 Audience doesnot exist
+INFO 2020-06-22 16:41:40,336 repositeries delete_existing_news 100 Call to delete_existing_news method
+INFO 2020-06-22 16:41:40,514 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:41:40,773 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:41:48,048 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:41:56,358 repositeries delete_existing_news 100 Call to delete_existing_news method
+INFO 2020-06-22 16:41:56,412 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:41:56,601 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:42:03,301 repositeries delete_existing_news 100 Call to delete_existing_news method
+INFO 2020-06-22 16:42:03,385 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:42:03,714 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:42:40,453 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 16:42:40,455 repositeries create_new_news 49 Creating a news
+ERROR 2020-06-22 16:42:40,567 repositeries create_new_news 56 list index out of range
+INFO 2020-06-22 16:42:40,572 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 16:42:40,609 repositeries create_new_news 65 Audience doesnot exist
+INFO 2020-06-22 16:43:55,085 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:44:05,998 repositeries delete_existing_news 100 Call to delete_existing_news method
+INFO 2020-06-22 16:44:06,035 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:44:06,257 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:44:27,360 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 16:44:27,396 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 16:44:27,608 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 16:44:27,850 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 16:44:27,887 repositeries create_new_news 56 list index out of range
+ERROR 2020-06-22 16:44:27,901 repositeries create_new_news 65 Audience doesnot exist
+INFO 2020-06-22 17:46:37,302 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 17:46:37,302 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 17:46:37,318 repositeries update_existing_news 70 Call to update_existing_news method
+ERROR 2020-06-22 17:46:37,521 repositeries update_existing_news 83 list index out of range
+ERROR 2020-06-22 17:46:37,521 repositeries update_existing_news 96 Audience doesnot exist
+INFO 2020-06-22 17:47:40,764 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 17:47:40,819 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 17:47:41,008 repositeries update_existing_news 70 Call to update_existing_news method
+ERROR 2020-06-22 17:47:41,027 repositeries update_existing_news 83 list index out of range
+ERROR 2020-06-22 17:47:41,035 repositeries update_existing_news 96 Audience doesnot exist
+INFO 2020-06-22 17:49:21,954 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 17:49:21,959 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 17:49:21,973 repositeries update_existing_news 70 Call to update_existing_news method
+ERROR 2020-06-22 17:49:21,998 repositeries update_existing_news 84 list index out of range
+ERROR 2020-06-22 17:49:22,001 repositeries update_existing_news 97 Audience doesnot exist
+INFO 2020-06-22 17:50:08,715 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 17:50:37,814 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 17:50:37,824 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 17:50:37,838 repositeries update_existing_news 70 Call to update_existing_news method
+INFO 2020-06-22 17:50:38,461 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 17:50:38,591 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 17:51:18,911 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 17:51:18,921 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 17:51:18,934 repositeries update_existing_news 70 Call to update_existing_news method
+ERROR 2020-06-22 17:51:19,147 repositeries update_existing_news 84 list index out of range
+ERROR 2020-06-22 17:51:19,158 repositeries update_existing_news 97 Audience doesnot exist
+INFO 2020-06-22 17:53:11,785 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 17:53:11,792 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 17:53:11,821 repositeries update_existing_news 70 Call to update_existing_news method
+ERROR 2020-06-22 17:53:12,105 repositeries update_existing_news 85 list index out of range
+ERROR 2020-06-22 17:53:12,106 repositeries update_existing_news 98 Audience doesnot exist
+INFO 2020-06-22 17:57:10,069 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 17:57:10,119 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 17:57:10,131 repositeries update_existing_news 70 Call to update_existing_news method
+ERROR 2020-06-22 17:57:10,344 repositeries update_existing_news 86 list index out of range
+ERROR 2020-06-22 17:57:10,347 repositeries update_existing_news 99 Audience doesnot exist
+INFO 2020-06-22 18:01:33,644 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 18:01:33,649 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 18:01:33,656 repositeries update_existing_news 70 Call to update_existing_news method
+INFO 2020-06-22 18:01:34,889 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:05:28,360 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 18:05:28,363 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 18:05:28,379 repositeries update_existing_news 73 Call to update_existing_news method
+DEBUG 2020-06-22 18:05:28,387 repositeries update_existing_news 75 Creating a news
+INFO 2020-06-22 18:05:29,503 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:05:52,609 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 18:05:52,610 repositeries create_new_news 49 Creating a news
+ERROR 2020-06-22 18:05:53,284 repositeries create_new_news 68 'str' object has no attribute 'audience_type'
+INFO 2020-06-22 18:07:42,392 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:09:06,336 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:09:19,388 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-22 18:09:19,388 repositeries get_news 34 Getting the news from id
+INFO 2020-06-22 18:09:19,397 repositeries update_existing_news 73 Call to update_existing_news method
+DEBUG 2020-06-22 18:09:19,403 repositeries update_existing_news 75 Creating a news
+INFO 2020-06-22 18:09:19,842 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:09:19,978 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:09:26,466 repositeries delete_existing_news 107 Call to delete_existing_news method
+INFO 2020-06-22 18:09:26,497 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:09:26,733 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:09:47,697 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 18:09:47,698 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 18:09:47,794 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 18:09:47,794 repositeries create_new_news 68 'str' object has no attribute 'audience_type'
+INFO 2020-06-22 18:14:00,952 repositeries delete_existing_news 107 Call to delete_existing_news method
+INFO 2020-06-22 18:14:01,791 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:14:14,045 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:14:31,268 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 18:14:31,268 repositeries create_new_news 49 Creating a news
+ERROR 2020-06-22 18:14:31,426 repositeries create_new_news 68 'str' object has no attribute 'audience_type'
+INFO 2020-06-22 18:14:31,431 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:15:56,774 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:16:04,548 repositeries delete_existing_news 110 Call to delete_existing_news method
+INFO 2020-06-22 18:16:04,582 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:16:04,736 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:16:19,993 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 18:16:19,994 repositeries create_new_news 49 Creating a news
+ERROR 2020-06-22 18:16:20,081 repositeries create_new_news 68 'str' object has no attribute 'audience_type'
+INFO 2020-06-22 18:16:20,087 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:19:17,713 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:19:41,449 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 18:19:41,484 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 18:19:41,702 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 18:19:41,796 repositeries create_new_news 71 'str' object has no attribute 'audience_type'
+INFO 2020-06-22 18:22:05,625 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:22:14,530 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-22 18:22:14,585 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:22:14,750 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:22:19,424 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-22 18:22:19,794 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:22:20,060 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:22:34,611 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 18:22:34,615 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 18:22:34,855 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 18:22:34,893 repositeries create_new_news 71 'str' object has no attribute 'audience_type'
+INFO 2020-06-22 18:23:20,966 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 18:23:20,969 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 18:23:23,159 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 18:23:34,189 validators validate_news 11 Invalid News Entity, No title
+ERROR 2020-06-22 18:27:18,450 validators validate_news 17 Invalid News Entity, No tags
+ERROR 2020-06-22 18:27:34,318 validators validate_news 14 Invalid News Entity, No content
+INFO 2020-06-22 18:27:41,554 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:28:52,145 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 18:29:31,420 validators validate_news 17 Invalid News Entity, No tags
+INFO 2020-06-22 18:31:28,783 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:32:11,741 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 18:32:11,747 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 18:32:12,061 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:32:12,317 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:32:12,479 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:32:44,016 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:52:42,422 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 18:53:23,908 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 18:53:42,196 validators validate_news 17 Invalid News Entity, No tags
+INFO 2020-06-22 19:32:14,634 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 19:39:35,493 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 19:41:24,037 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 19:41:24,038 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 19:41:24,268 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 19:41:24,294 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 19:41:24,410 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 19:41:38,700 validators validate_news 17 Invalid News Entity, No tags
+INFO 2020-06-22 19:44:56,558 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 19:45:27,166 validators validate_news 17 Invalid News Entity, No tags
+INFO 2020-06-22 20:05:49,070 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 20:06:09,908 validators validate_news 17 Invalid News Entity, No tags
+INFO 2020-06-22 20:07:52,672 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 20:08:07,203 validators validate_news 17 Invalid News Entity, No tags
+INFO 2020-06-22 20:08:33,148 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 20:08:33,148 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 20:08:33,360 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:08:33,385 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:08:33,478 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:08:49,273 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-22 20:08:49,373 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:08:49,628 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:08:53,291 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-22 20:08:53,328 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:08:53,560 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:09:47,473 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:20:43,238 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 20:20:43,241 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 20:20:45,929 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:21:15,209 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:21:28,456 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 20:21:28,457 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 20:21:28,942 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:21:28,955 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:21:29,007 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 20:23:00,338 validators validate_news 17 Invalid News Entity, No tags
+INFO 2020-06-22 20:25:29,438 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:25:46,497 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 20:25:46,498 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 20:25:46,642 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:25:46,777 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:25:46,830 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:27:04,683 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:27:24,092 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 20:27:24,093 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 20:27:24,248 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:27:24,435 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:27:24,506 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:28:42,602 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:29:04,815 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-22 20:29:04,831 repositeries create_new_news 49 Creating a news
+INFO 2020-06-22 20:29:05,009 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:29:05,172 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:29:05,234 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:30:16,827 repositeries get_all_news 23 Call to get_all_news method
+ERROR 2020-06-22 20:30:31,572 validators validate_news 20 Invalid News Entity, No audience
+INFO 2020-06-22 20:35:52,279 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:37:42,550 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:38:51,213 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:39:26,821 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:49:05,932 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-22 20:49:06,096 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:49:06,289 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:49:06,380 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:49:10,490 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-22 20:49:10,555 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:49:10,562 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:49:10,724 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:49:24,819 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:49:51,227 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:50:13,502 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:50:27,720 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-22 20:50:27,803 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:50:27,806 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:50:27,959 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:50:39,418 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:50:56,012 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:51:08,080 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:51:25,464 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-22 20:51:25,518 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:51:25,576 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:51:25,579 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:51:25,657 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:51:25,868 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:53:31,280 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:54:56,384 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-22 20:54:56,418 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:54:56,426 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:54:56,432 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:54:56,572 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-22 20:54:56,637 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 12:11:27,891 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:01,200 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:17,985 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:32,534 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-23 15:30:33,268 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:33,569 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:34,270 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:36,708 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-23 15:30:36,746 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:37,166 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:37,217 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:40,655 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-23 15:30:40,730 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:40,964 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:41,004 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:43,662 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-23 15:30:43,813 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:44,088 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:44,188 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:47,577 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-23 15:30:47,634 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:48,952 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:49,627 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:53,114 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-23 15:30:53,161 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:53,511 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:53,840 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:56,681 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-23 15:30:56,787 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:57,038 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:57,146 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:30:59,815 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-23 15:30:59,892 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:31:00,102 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:31:00,328 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:31:02,663 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-23 15:31:02,698 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:31:02,977 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:31:03,136 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:31:05,378 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-23 15:31:05,415 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:31:05,620 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:31:05,693 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:40:03,068 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:42:49,307 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:43:20,388 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:43:31,898 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-23 15:43:31,900 repositeries create_new_news 49 Creating a news
+INFO 2020-06-23 15:43:32,511 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:43:32,762 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:43:32,795 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:43:32,839 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:43:33,191 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:44:02,228 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-23 15:44:02,236 repositeries get_news 34 Getting the news from id
+ERROR 2020-06-23 15:44:02,244 validators validate_news 20 Invalid News Entity, No audience
+INFO 2020-06-23 15:44:09,229 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-23 15:44:09,230 repositeries get_news 34 Getting the news from id
+INFO 2020-06-23 15:44:09,237 repositeries update_existing_news 76 Call to update_existing_news method
+DEBUG 2020-06-23 15:44:09,239 repositeries update_existing_news 78 Creating a news
+INFO 2020-06-23 15:44:09,810 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:44:10,212 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:44:10,357 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-23 15:44:21,947 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-23 15:44:21,948 repositeries get_news 34 Getting the news from id
+INFO 2020-06-23 15:44:24,969 repositeries get_all_news_by_tag 125 Call to get_news method
+INFO 2020-06-25 12:59:00,559 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 12:59:52,837 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:00:28,266 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:02:26,958 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:03:25,349 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-25 13:03:25,442 repositeries get_news 34 Getting the news from id
+ERROR 2020-06-25 13:03:25,471 validators validate_news 20 Invalid News Entity, No audience
+INFO 2020-06-25 13:03:32,215 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-25 13:03:32,271 repositeries get_news 34 Getting the news from id
+INFO 2020-06-25 13:03:32,284 repositeries update_existing_news 76 Call to update_existing_news method
+DEBUG 2020-06-25 13:03:32,313 repositeries update_existing_news 78 Creating a news
+INFO 2020-06-25 13:03:32,872 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:03:33,000 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:03:33,099 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:03:58,661 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-25 13:03:58,736 repositeries get_news 34 Getting the news from id
+INFO 2020-06-25 13:03:58,762 repositeries update_existing_news 76 Call to update_existing_news method
+DEBUG 2020-06-25 13:03:58,814 repositeries update_existing_news 78 Creating a news
+INFO 2020-06-25 13:03:59,341 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:03:59,394 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:03:59,766 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:04:27,753 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-25 13:04:27,756 repositeries create_new_news 49 Creating a news
+INFO 2020-06-25 13:04:27,949 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:04:27,954 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:04:28,170 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:04:28,212 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:04:28,419 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:04:53,488 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-25 13:04:53,542 repositeries get_news 34 Getting the news from id
+INFO 2020-06-25 13:04:53,551 repositeries update_existing_news 76 Call to update_existing_news method
+DEBUG 2020-06-25 13:04:53,607 repositeries update_existing_news 78 Creating a news
+INFO 2020-06-25 13:04:53,972 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:04:53,975 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:04:54,069 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:05:22,689 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-25 13:05:22,690 repositeries create_new_news 49 Creating a news
+INFO 2020-06-25 13:05:22,866 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:05:22,888 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:05:23,568 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:05:23,578 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:05:23,837 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:06:33,816 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:07:01,074 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-25 13:07:01,076 repositeries create_new_news 49 Creating a news
+INFO 2020-06-25 13:07:01,362 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:07:01,398 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:07:01,793 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:07:01,818 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:07:01,996 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:09:03,223 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-25 13:09:03,251 repositeries get_news 34 Getting the news from id
+INFO 2020-06-25 13:09:03,255 repositeries update_existing_news 76 Call to update_existing_news method
+DEBUG 2020-06-25 13:09:03,260 repositeries update_existing_news 78 Creating a news
+INFO 2020-06-25 13:09:03,625 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:09:03,675 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:09:03,797 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:09:46,137 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-25 13:09:46,222 repositeries get_news 34 Getting the news from id
+INFO 2020-06-25 13:09:46,233 repositeries update_existing_news 76 Call to update_existing_news method
+DEBUG 2020-06-25 13:09:46,259 repositeries update_existing_news 78 Creating a news
+INFO 2020-06-25 13:09:46,772 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:09:46,779 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:09:46,856 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:09:58,973 repositeries delete_existing_news 111 Call to delete_existing_news method
+INFO 2020-06-25 13:09:59,123 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:09:59,161 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:09:59,434 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:14:16,556 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-25 13:14:16,565 repositeries get_news 34 Getting the news from id
+INFO 2020-06-25 13:14:16,586 repositeries update_existing_news 76 Call to update_existing_news method
+DEBUG 2020-06-25 13:14:16,610 repositeries update_existing_news 78 Creating a news
+INFO 2020-06-25 13:14:17,565 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:14:17,679 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:14:17,802 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:15:09,117 repositeries create_new_news 47 Call to create_news method
+DEBUG 2020-06-25 13:15:09,118 repositeries create_new_news 49 Creating a news
+INFO 2020-06-25 13:15:09,253 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:15:09,299 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:15:09,484 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:15:09,640 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:15:09,677 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:16:49,040 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-25 13:16:49,054 repositeries get_news 34 Getting the news from id
+INFO 2020-06-25 13:16:49,067 repositeries update_existing_news 76 Call to update_existing_news method
+DEBUG 2020-06-25 13:16:49,087 repositeries update_existing_news 78 Creating a news
+INFO 2020-06-25 13:16:49,672 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:16:49,682 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 13:16:49,816 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 14:21:40,230 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 14:21:46,328 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-25 14:21:46,344 repositeries get_news 34 Getting the news from id
+INFO 2020-06-25 14:21:50,448 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 14:21:51,980 repositeries get_news 32 Call to get_news method
+DEBUG 2020-06-25 14:21:51,996 repositeries get_news 34 Getting the news from id
+INFO 2020-06-25 14:21:55,151 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 15:09:44,310 repositeries get_all_news 23 Call to get_all_news method
+INFO 2020-06-25 16:16:39,774 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:24:09,604 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:36:08,321 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:36:24,997 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:37:02,052 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:37:38,017 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:42:43,170 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:44:55,050 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:45:11,740 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:45:35,348 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 16:45:35,349 repositeries create_new_news 47 Creating a news
+ERROR 2020-06-25 16:45:35,644 repositeries create_new_news 77 Cannot assign "(<ORMAudience: >, True)": "ORMNews.audience" must be a "ORMAudience" instance.
+INFO 2020-06-25 16:49:49,643 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:50:05,782 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 16:50:05,783 repositeries create_new_news 47 Creating a news
+ERROR 2020-06-25 16:50:05,788 repositeries create_new_news 77 Cannot assign "(<ORMAudience: >, False)": "ORMNews.audience" must be a "ORMAudience" instance.
+INFO 2020-06-25 16:50:57,889 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:51:18,532 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 16:51:18,535 repositeries create_new_news 47 Creating a news
+ERROR 2020-06-25 16:51:18,541 repositeries create_new_news 77 Cannot assign "(<ORMAudience: >, False)": "ORMNews.audience" must be a "ORMAudience" instance.
+INFO 2020-06-25 16:52:27,182 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 16:52:51,673 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 16:52:51,674 repositeries create_new_news 47 Creating a news
+ERROR 2020-06-25 16:52:51,813 repositeries create_new_news 77 Cannot assign "(<ORMAudience: T>, True)": "ORMNews.audience" must be a "ORMAudience" instance.
+INFO 2020-06-25 17:13:19,269 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:13:41,340 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 17:13:41,342 repositeries create_new_news 47 Creating a news
+ERROR 2020-06-25 17:13:41,482 repositeries create_new_news 75 Cannot assign "(<ORMAudience: G>, True)": "ORMNews.audience" must be a "ORMAudience" instance.
+INFO 2020-06-25 17:17:03,507 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:17:18,783 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 17:17:18,784 repositeries create_new_news 47 Creating a news
+ERROR 2020-06-25 17:17:18,801 repositeries create_new_news 74 Cannot assign "(<ORMAudience: G>, False)": "ORMNews.audience" must be a "ORMAudience" instance.
+INFO 2020-06-25 17:18:43,800 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:18:57,014 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 17:18:57,015 repositeries create_new_news 47 Creating a news
+ERROR 2020-06-25 17:18:57,248 repositeries create_new_news 76 'ORMAudience' object has no attribute 'audience_id'
+INFO 2020-06-25 17:18:57,255 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:19:06,007 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 17:19:06,014 repositeries create_new_news 47 Creating a news
+ERROR 2020-06-25 17:19:06,163 repositeries create_new_news 76 'ORMAudience' object has no attribute 'audience_id'
+INFO 2020-06-25 17:19:06,170 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:19:55,619 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:20:41,223 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:21:10,069 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:22:06,987 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:22:42,555 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 17:22:42,556 repositeries create_new_news 47 Creating a news
+INFO 2020-06-25 17:22:42,809 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:22:42,853 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:23:03,527 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 17:23:03,529 repositeries create_new_news 47 Creating a news
+INFO 2020-06-25 17:23:03,648 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:23:03,728 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:23:41,518 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:23:47,317 repositeries delete_existing_news 106 Call to delete_existing_news method
+INFO 2020-06-25 17:23:47,501 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:23:48,129 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:23:50,943 repositeries delete_existing_news 106 Call to delete_existing_news method
+INFO 2020-06-25 17:23:50,963 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:23:51,217 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:25:08,502 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:28:58,094 repositeries get_all_news 21 Call to get_all_news method
+ERROR 2020-06-25 17:29:25,566 validators validate_news 17 Invalid News Entity, No tags
+INFO 2020-06-25 17:29:36,076 repositeries create_new_news 45 Call to create_news method
+DEBUG 2020-06-25 17:29:36,077 repositeries create_new_news 47 Creating a news
+INFO 2020-06-25 17:29:36,403 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:29:36,406 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 17:29:36,465 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 18:09:32,342 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 18:11:47,221 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 18:26:02,480 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 18:26:54,014 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:12:58,727 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:14:00,847 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:14:06,353 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:15:51,982 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:16:19,538 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:16:51,297 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:24:09,545 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:28:33,144 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:33:03,173 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:33:03,637 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:34:06,117 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:34:28,051 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:34:28,053 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:34:34,709 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:34:55,574 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:35:17,571 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:36:17,374 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:38:16,072 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:38:45,853 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:38:46,665 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:38:58,204 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:38:59,091 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:39:16,294 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:42:19,627 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:42:33,782 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:52:37,926 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 19:52:42,060 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:17:12,906 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:18:27,946 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:19:21,412 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:19:23,066 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:19:26,453 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:20:44,033 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:21:58,128 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:22:52,578 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:23:09,284 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:27:57,751 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:32:10,867 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:37:46,360 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-25 20:41:38,545 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 11:56:24,807 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 11:56:36,292 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 11:58:20,027 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 11:58:52,471 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 11:59:21,046 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 11:59:21,659 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 11:59:29,966 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:01:02,882 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:01:04,823 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:03:41,595 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:03:43,353 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:09:55,425 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:09:57,352 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:10:49,108 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:10:50,008 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:10:57,497 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:12:13,122 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:12:13,524 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:12:47,880 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:12:48,443 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:13:22,236 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:13:23,212 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:14:07,390 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:14:08,414 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:14:59,020 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:14:59,818 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:15:06,147 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:15:09,504 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:16:16,439 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:16:16,986 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:16:33,542 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:16:34,313 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:21:27,252 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:21:28,670 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:39:57,131 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:39:58,577 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:43:55,792 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:43:56,325 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:56:48,100 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:56:51,763 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:58:28,803 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 12:58:29,398 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 13:25:20,988 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:25:20,991 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 13:27:27,758 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:27:27,760 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 13:29:05,355 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:29:05,355 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 13:29:06,242 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:29:08,018 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 13:29:09,059 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 13:29:11,504 repositeries get_all_news_by_tag 100 Call to get_news method
+INFO 2020-06-26 13:31:01,911 repositeries get_all_news_by_tag 100 Call to get_news method
+INFO 2020-06-26 13:31:02,315 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:31:02,321 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 13:31:40,464 repositeries get_all_news_by_tag 100 Call to get_news method
+INFO 2020-06-26 13:31:41,543 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:31:41,745 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 13:32:26,184 repositeries get_all_news_by_tag 100 Call to get_news method
+INFO 2020-06-26 13:32:26,705 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:32:26,706 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 13:34:06,265 repositeries get_all_news_by_tag 100 Call to get_news method
+INFO 2020-06-26 13:34:06,431 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:34:06,547 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 13:34:09,127 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:34:09,129 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 13:37:24,859 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:37:24,859 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 13:37:26,555 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 13:37:26,557 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 14:38:31,102 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 14:38:31,114 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 14:38:33,441 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 14:38:33,443 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 14:47:08,371 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 14:47:08,373 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 14:47:10,373 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 14:47:10,374 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 14:52:25,616 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 14:52:25,620 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 14:52:29,976 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 14:52:29,978 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 14:58:19,162 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 14:58:19,165 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 14:58:22,537 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 14:58:22,558 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:00:36,511 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:00:36,513 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:05:20,098 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:05:20,100 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:05:24,969 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:05:24,973 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:05:43,666 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:05:43,667 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:07:07,827 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:07:07,828 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:07:13,328 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:07:13,329 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:07:53,733 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:07:53,734 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:07:58,298 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:07:58,300 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:31:02,153 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:31:03,095 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:32:13,428 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:32:13,430 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:34:21,081 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:34:21,083 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:34:48,275 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:34:48,277 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:38:34,724 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:38:34,725 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:39:22,454 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:39:22,455 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:40:54,570 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:40:54,572 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:41:26,739 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:41:26,742 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:41:40,977 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 15:42:49,931 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:42:49,963 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:45:05,995 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 15:45:40,905 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:45:40,910 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 15:46:00,642 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 15:46:06,829 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 15:46:09,434 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 15:46:09,441 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 16:02:28,432 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 16:02:52,577 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 16:03:10,326 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 16:03:13,829 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 16:03:24,597 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 16:04:28,941 repositeries get_news 30 Call to get_news method
+DEBUG 2020-06-26 16:04:28,943 repositeries get_news 32 Getting the news from id
+INFO 2020-06-26 16:20:30,127 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 18:50:09,088 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 18:59:09,099 repositeries get_all_news 21 Call to get_all_news method
+INFO 2020-06-26 20:04:13,658 repositeries get_all_news 21 Call to get_all_news method
